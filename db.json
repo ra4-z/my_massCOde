@@ -1,0 +1,45 @@
+{
+  "folders": [
+    {
+      "id": "tstLB6eE",
+      "name": "Default",
+      "defaultLanguage": "typescript",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "createdAt": 1658803880817,
+      "updatedAt": 1658803880817
+    },
+    {
+      "name": "python",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "defaultLanguage": "python",
+      "id": "RFH70lRJ",
+      "createdAt": 1658803887333,
+      "updatedAt": 1658804022054
+    }
+  ],
+  "snippets": [
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "RFH70lRJ",
+      "tagsIds": [],
+      "description": "open a video file and read every frame of it",
+      "name": "read from video",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "python",
+          "value": "s"
+        }
+      ],
+      "id": "ispI9A9D",
+      "createdAt": 1658803900939,
+      "updatedAt": 1658803992862
+    }
+  ],
+  "tags": []
+}
